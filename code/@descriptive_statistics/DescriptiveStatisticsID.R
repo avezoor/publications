@@ -1,6 +1,6 @@
 # Memuat library yang diperlukan
 library(readxl)  # Untuk membaca file Excel
-library(dplyr)   # Untuk manipulasi data
+library(dplyr)   # Untuk manipulasi data 
 
 # Menentukan path file Excel yang akan dibaca
 file_path <- ""  # Ganti dengan path file Excel Anda
